@@ -1,0 +1,9 @@
+
+/* header */
+h1{
+  font-size: 24px;
+  padding-bottom: 4px;
+  border-bottom:1px solid #eee;
+  font-weight: normal;
+}
+p{margin-top: 4px 0;}
